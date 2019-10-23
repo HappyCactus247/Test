@@ -1,0 +1,21 @@
+html{
+    background: #6B8E23 url(https://99px.ru/sstorage/86/2017/02/image_862502170039589560098.gif);
+    background-size: cover;
+}
+table {
+    background: #6B8E23 url(https://99px.ru/sstorage/86/2017/02/image_862502170039589560098.gif); 
+    color: rgb(255, 0, 0);
+    background-size: cover;
+   }
+   [type="submit"]{
+       background: rgb(255, 8, 0) 
+   }
+   }  
+    @media screen and (max-width: 1024px){
+        .one{
+            color: blueviolet
+        }
+    }
+
+    .
+

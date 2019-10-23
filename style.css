@@ -1,0 +1,39 @@
+.fullpage{
+    display:grid;
+    grid-template-columns: 50vw 50vw;
+    grid-template-rows: 1fr 1fr ; 
+    font-size: 3vh;
+}
+.hd{
+    grid-column: 1;
+    grid-row: 1;
+
+}
+.ct1{
+    grid-column: 2;
+    grid-row: 1;
+}
+.ct3{
+    grid-column: 2;
+    grid-row: 2;
+}
+
+.bordering{
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+}
+.rigbor{
+    border-right: 2px solid black;
+}
+.botbor{
+    border-bottom: 2px solid black;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.blue{
+    color: blue;
+}
